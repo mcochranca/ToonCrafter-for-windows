@@ -21,3 +21,4 @@ timm
 scikit-learn 
 open_clip_torch==2.22.0
 kornia
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
